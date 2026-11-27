@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AwraPlay</string>
+    <string name="tagline">Your Music, Your Voice, Your Karaoke.</string>
+    <string name="notification_channel_playback">AwraPlay Playback</string>
+</resources>

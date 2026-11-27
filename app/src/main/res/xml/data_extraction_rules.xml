@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="awraplay_stems" />
+        <exclude domain="file" path="awraplay_models" />
+    </cloud-backup>
+</data-extraction-rules>

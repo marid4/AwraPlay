@@ -1,0 +1,4 @@
+-keep class com.awraplay.player.data.model.** { *; }
+-keep class ai.onnxruntime.** { *; }
+-dontwarn ai.onnxruntime.**
+-keepattributes Signature,InnerClasses,EnclosingMethod
